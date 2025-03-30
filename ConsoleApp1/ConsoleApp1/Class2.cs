@@ -9,5 +9,7 @@ namespace ConsoleApp1
     internal class Class2
     {
         //this is a commit on b2
+        //this is a commit on b2 2nd
+        //this is a commit on b2 3rd
     }
 }
